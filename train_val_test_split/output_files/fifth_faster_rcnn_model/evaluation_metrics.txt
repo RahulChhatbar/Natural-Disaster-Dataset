@@ -1,6 +1,0 @@
-Evaluation Metrics:
-Accuracy: 55.3333%
-Precision: 70.0874
-Recall: 55.3333
-F1-score: 52.1514
-MCC: 0.4154
